@@ -2,6 +2,13 @@
 
 Project builded during the OmniStack week provide by RocketSeat.
 
+### Project Screens - Web and Mobile
+
+<img src="./Feed.jpg" width="900">
+<img src="./New.jpg" width="900">
+<img src="./feed.jpg" width="900">
+<img src="./new.jpg" width="900">
+
 # Backend
 
 ## Installation
