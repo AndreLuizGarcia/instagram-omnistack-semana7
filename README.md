@@ -57,6 +57,10 @@ To rebuild Android and iOS folder run this command:
 react-native eject
 ```
 
+```bash
+react-native link
+```
+
 After this just run the command to start the project, in my case I runned in Android OS.
 
 ```bash
